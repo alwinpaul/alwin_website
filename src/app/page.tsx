@@ -27,9 +27,9 @@ export default function Home() {
         </div>
         <div className="h-[600px] w-8/12 border border-slate-400 rounded-lg float-right bg-white shadow-2xl">
           <div className="h-[500px] w-9/12 ml-36 mt-12 py-5">
-            <div className="font-bold text-teal-700 text-xl">Hey there! I'm Alwin.</div>
+            <div className="font-bold text-teal-700 text-xl">Hey there! I&#39;m Alwin.</div>
             <div className="font-bold text-7xl my-5">I am Passionate about bringing ideas to life.</div>
-            <div className="font-light text-xl my-5">I love building digital tools that solve real-world problems with JavaScript, React, and Vue. I'm a keen learner always finding creative ways to make software better and more intuitive.</div>
+            <div className="font-light text-xl my-5">I love building digital tools that solve real-world problems with JavaScript, React, and Vue. I&#39;m a keen learner always finding creative ways to make software better and more intuitive.</div>
             <div className="h-12 w-40 flex items-center justify-start my-5">
               <div className="w-10 h-10 mr-2 hover:cursor-pointer hover:h-12 hover:w-12">
                 <Link target="_blank" href="https://www.linkedin.com/in/alwinp/">
